@@ -1,0 +1,27 @@
+# Ignore VSCode settings
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+*.venv
+.env
+.venv
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Matlab
+*.asv
+*.mex*
+*.mdl.*
+*.slxc
+
+# OS files
+.DS_Store
+Thumbs.db
+
+.pytest_cache
